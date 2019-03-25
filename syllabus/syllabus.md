@@ -1,193 +1,144 @@
-:Author: Justin Perona
+---
+Author: Justin Perona
+---
 
-Credit for the course layout is given to Jason Lowe-Power of UC Davis.
-Credit for a significant portion of the content is given to Sean Davis of UC Davis.
+# ECS 390 - The Teaching of Computer Science
+
+Inspiration for this course was drawn from the following people or programs:
+
+* *Jason Lowe-Power* of UC Davis for the layout of the course
+* *Sean Davis* of UC Davis for some of the course content
+* the *MaGE* program at Mount Holyoke College for the majority of the course content
 
 Content is licensed under CC BY 4.0.
 See the LICENSE file for more information.
 
-==========================================
-ECS 390 - The Teaching of Computer Science
-==========================================
+## Class and People
 
-Class and People
-----------------
-
-Seminars
-~~~~~~~~
+### Seminars
 
 *Monday*: 17:10 - 18:00, 1150 Hart
 
-Instructor
-~~~~~~~~~~
+### Instructor
 
 **Justin Perona** (jlperona at ucdavis dot edu)
 
-Emails to me about the course should have the tag **[ECS 390]** (including the brackets) in the title.
+Emails to me about the course must have the tag **[ECS 390]** (including the brackets) in the title.
 
 Office hours by appointment only.
 Email me to schedule an appointment.
 
-Description
-~~~~~~~~~~~
+## About the Course
+
+### Curriculum
+
+This quarter is going to be a huge experiment for ECS 390.
+I'm going to be trying out a new curriculum, heavily based on the [*Megas and Gigas Educate* (MaGE)](https://sites.google.com/a/mtholyoke.edu/mage/) program developed at [Mount Holyoke College](https://www.mtholyoke.edu/).
+As they state on their website, MaGE is designed to:
+
+* raise awareness of the role of social identity in learning
+* emphasize active learning within computer science
+* provide preparation for being technical peer mentors
+
+Since I'm not copying their program exactly, we may not get to everything on this list, but I certainly hope to.
+My hope for this curriculum change is to make it more useful for students who already have teaching experience, which there should be a few of in this class.
+
+This is very much an experiment!
+I'll be asking for your feedback to determine if the class was useful for you depending on the amount of prior teaching experience you've had.
+I hope that you'll give your feedback, as I'll take this into consideration for future classes.
+
+### Description
 
 Participation as a Teaching Assistant or Associate-In in a designated engineering course.
 Methods of leading discussion groups or lab sections, writing and grading quizzes, use of lab equipment, and grading lab reports.
 May be repeated for credit.
 
-Course Objectives
-~~~~~~~~~~~~~~~~~
+### Objectives
 
 1. Student will develop the skills to effectively lead responsive, informative discussion sections.
 2. Student will be able to develop efficient and fair methods of grading student programs and tests.
 3. Student will learn about the various resources available to student instructors on campus.
 
 The whole point of this class is for you to improve as an instructor.
-(I get to improve as an instructor as well by teaching this class, so everyone wins!)
-It doesn't matter if you've had previous experience teaching or not, you can *always* improve and make things better.
+I get to improve as an instructor as well by teaching this class, so everyone wins!
+It doesn't matter if you've had previous experience teaching or not, you can *always* improve your teaching and make things better.
 
-Websites
---------
+## Websites
 
-Github
-~~~~~~
+### GitHub
 
-Github_ will serve as the open-source repository for some of the course content, including the syllabus (this document), the schedule, and any presentation notes I post.
+GitHub will serve as the open-source repository for some of the course content, including the syllabus (this document), the schedule, any presentation notes I post, and the layout for each week's class.
 
 I'm a big fan of making things open-source wherever possible, hence this repository.
-My Github repository for `ECS 154A`_, a class I taught previously, is a good past example of that.
+My GitHub repository for [ECS 154A](https://github.com/jlperona-teaching/ecs154a-ssii18), a class I taught previously, is a good past example of that.
 
-.. _ECS 154A: https://github.com/jlperona-teaching/ecs154a-ssii18
+### Canvas
 
-Canvas
-~~~~~~
+[Canvas](https://canvas.ucdavis.edu/courses/356010) will serve as the discussion board for the class, as well as where you'll submit your assignments and get back your grades.
 
-Canvas_ will serve as the discussion board for the class, as well as where you'll submit your assignments and get back your grades.
+Feel free to post questions on the [Discussions tab](https://canvas.ucdavis.edu/courses/356010/discussion_topics) of Canvas.
+I'll make any announcements on the [Announcements tab](https://canvas.ucdavis.edu/courses/356010/assignments).
 
-Feel free to post questions on the `Discussions tab`_ of Canvas.
-I'll make any announcements on the `Announcements tab`_.
+## Coursework
 
-.. _Discussions tab: https://canvas.ucdavis.edu/courses/252992/discussion_topics
-.. _Announcements tab: https://canvas.ucdavis.edu/courses/252992/announcements
-
-Coursework and Grades
----------------------
-
-Course Grading
-~~~~~~~~~~~~~~
+### Grading
 
 The course is graded on a Satisfactory / Unsatisfactory (S/U) basis.
 There are 30 points possible, described in more detail in the sections below.
-You need 80% of the points possible to get an S, as is typical of S/U classes at UC Davis.
-This means you can either miss three classes, both of the assignments for your specific track, or one of each, and still come out with an S.
+You need at least 80% of the points possible to get an S, as is typical of S/U classes at UC Davis.
+Thus, if you end up missing a class or assignment once, don't worry about it.
 
-You must do both presentations to pass the class (regardless of the point value), as those are the entire point of the class.
-If you can't make a presentation date because of an emergency, let me know as soon as you can.
-
-Required Coursework
-~~~~~~~~~~~~~~~~~~~
-
-Attendance and Weekly Assignments
-"""""""""""""""""""""""""""""""""
+### Attendance
 
 Attendance for each class is mandatory.
-On presentation days, you only need to attend one of the seminars for that day to get credit.
-If you sign up for the later time slot, attend the later time slot for the rest of the weeks for that presentation.
-This is so that we can get equal amounts of feedback for presenters for each week.
+This will be a course heavily based on discussion, so to get the most out of the course, you'll need to attend most weeks.
+
+You get two points for each class you attend.
+There are 9 classes, so you get 18 points from attendance.
+
+### Weekly Assignments
 
 In addition to the attendance, there will usually be something that you need to submit on Canvas for that week as well.
-These are *usually* due at 23:59 on Fridays, but check the due date carefully.
-The first one tells me if you're a discussion leader or not.
-Seven of the remaining eight will be your feedback on the presentations for that week.
+These are *usually* due at 16:00 on the following Monday, an hour before class, but check the due date carefully.
+Assignments will revolve around the following:
 
-There are 9 seminars, so you get 18 points from attendance.
-You need to attend class as well as submit the associated assignment to get credit for that week.
+* reflection on something discussed in class that week
+* reading(s) for the following week
+* feedback on the course
 
-Presentations
-"""""""""""""
+You get one point for each assignment.
+There are 9 assignments, so you get 9 points from assignments.
 
-There will be two different presentations that everybody will make.
-One will be a short 3-minute presentation in the first half of the quarter.
-The other will be a longer 5-minute presentation in the second half of the quarter.
-You will leave some time to answer questions at the end.
-This will be followed by feedback from the class and me.
+### Observation
 
-You can present on anything that you want within reason (nothing obscene, please).
-Some of my favorite presentation topics have been on styling product-induced hair loss, why Drake's entire discography is a thinly veiled suicide note, and how not to be a bad cyclist on campus (complete with a demonstration).
-Feel free to get creative, it makes it more fun.
+#### Reasoning
 
-Each presentation is worth 3 points, for a total of 6 points.
-I won't be grading on content or anything like that.
-As long as you made a genuine attempt, and attempted to improve on the second presentation versus the first, you'll get credit.
+Normally, in this course, the instructor would observe TAs who are leading discussions that quarter.
+Due to this, students who weren't leading discussions the quarter they took the class wouldn't get an observation of their teaching skills.
+Making things truly equal for students taking this class would require one of the following:
 
-While people are presenting, everybody else will be writing down notes on what the presenter did well, and what they could improve on.
-You'll submit these electronically on Canvas after the class is over.
-This constitutes part of your attendance for each week.
+* only allowing students who are currently leading discussions to take this class
+* giving everybody taking this class a TA position in which they lead discussions
 
-Track A - Discussion Leaders
-""""""""""""""""""""""""""""
+Both of these solutions are untenable for a variety of reasons.
+While I can't make things equal, I can try to make things more equitable.
+This quarter is already a huge experiment, so we're going to try a new assignment and see if it works out.
 
-There's two different tracks, depending on whether or not you'll be leading discussions this quarter or not.
-For discussion leaders, your two assignments revolve around your discussions.
+#### Assignment
 
-Each of the observations below is worth 3 points, for a total of 6 points.
-See Canvas_ for more details on each assignment.
+I won't be observing TAs who are leading discussions this quarter.
+Instead, every student in the class will observe a discussion section of one of those TAs.
+This includes those who are leading discussions; you'll observe another TA.
+You will take notes and give suggestions to the TA on how they can improve their teaching.
+More about the assignment is explained on the assignment page on Canvas.
 
-*Discussion Observation*
+After the first week of class, I'll post a list of when and where the discussion sections led by our students are being held.
+You'll sign up for spots; only one observation per discussion will be allowed.
+We will try to be fair and make it so that each TA gets roughly the same amount of observations over the quarter.
 
-The first observation will be me observing one of your discussion sections, preferably early in the quarter.
-I will ask you to submit a list of when you teach discussions on Canvas, and I'll observe one of those and give you feedback.
-I'll let you know ahead of time when I plan on attending.
+This is the term project for this class, essentially.
+You'll get up to three points for doing this, depending on the quality of your notes.
 
-*Discussion Recording and Consultation*
+## Schedule
 
-The Center for Educational Effectiveness (or CEE_) promotes and supports effective learning for all UC Davis students.
-You're probably already met them at TA orientation.
-One of CEE's offerings is going over a video recording of yourself with a TA Consultant.
-
-The second observation involves going over a video recording of one of your discussions.
-You will record yourself, and then meet with one of CEE's consultants to discuss the recording how you can improve as an instructor.
-
-Track B - Everyone Else
-"""""""""""""""""""""""
-
-If you're not leading discussions, either because you're only grading or you're not a TA this quarter, then you're going to have two alternative assignments.
-These revolve around exposing you to something new in terms of teaching.
-
-Each of the workshops below (together with proof of attendance) is worth 3 points, for a total of 6 points.
-See Canvas_ for more details on each assignment.
-
-*Two Workshops*
-
-The Center for Educational Effectiveness (or CEE_) promotes and supports effective learning for all UC Davis students.
-You're probably already met them at TA orientation.
-CEE holds workshops every quarter on a variety of topics to help you improve your teaching.
-
-Your assignments will be to attend two separate CEE workshops, and write a short paragraph on what you've learned for each.
-You can view all the available workshops on `CEE's website`_.
-Feel free to attend any two that strike your fancy, though keep in mind some of the workshops on that list are oriented towards faculty and not graduate students.
-Note that you need to register ahead of time on each event's page.
-
-*Graduate Teaching Certificate*
-
-CEE offers a `graduate teaching certificate`_ if you attend five of six presentations listed on the flyer linked in this sentence.
-This isn't required, but if you're interested in getting the certificate, feel free to attend more graduate student workshops.
-
-*Observation Offer*
-
-You will, admittedly, get a bit more out of this class if you're leading discussions.
-That being said, if you do lead discussions in Winter or Spring this year, and would like somebody to observe you, I'm more than happy to do so.
-Email me in the future when you're leading a discussion if you'd like to take me up on this offer.
-If you're serious about wanting to improve, I'll meet you halfway.
-
-CEE can also do observations, as well.
-You can request an observation on `their website`_.
-
-.. _`CEE's website`: https://cee.ucdavis.edu/workshops
-.. _`graduate teaching certificate`: https://cee.ucdavis.edu/sites/g/files/dgvnsk5371/files/files/page/2018%20Fall%20Grad%20Student%20Workshop%20Flyer.pdf
-.. _`their website`: https://cee.ucdavis.edu/learning-and-teaching-consultations
-
-Schedule
---------
-
-See the official schedule_ on Github.
+See the [official schedule](https://github.com/jlperona-teaching/ecs390-spring19/blob/master/syllabus/schedule.csv) on GitHub.
