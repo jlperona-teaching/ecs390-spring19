@@ -20,8 +20,10 @@ See the LICENSE file for more information.
     * [Instructor](#instructor)
 * [About the Course](#about-the-course)
     * [Curriculum](#curriculum)
-    * [Description](#description)
+    * [Official Description](#official-description)
     * [Objectives](#objectives)
+    * [Academic Misconduct](#academic-misconduct)
+    * [Student Support](#student-support)    
 * [Websites](#websites)
     * [GitHub](#github)
     * [Canvas](#canvas)
@@ -61,14 +63,14 @@ As they state on their website, MaGE is designed to:
 * emphasize active learning within computer science
 * provide preparation for being technical peer mentors
 
-Since I'm not copying their program exactly, we may not get to everything on this list, but I certainly hope to.
+Since I'm not copying their program exactly, we may not get to everything on this list, but I'd certainly like to.
 My hope for this curriculum change is to make it more useful for students who already have teaching experience, which there should be a few of in this class.
 
 This is very much an experiment!
 I'll be asking for your feedback to determine if the class was useful for you depending on the amount of prior teaching experience you've had.
 I hope that you'll give your feedback, as I'll take this into consideration for future classes.
 
-### Description
+### Official Description
 
 Participation as a Teaching Assistant or Associate-In in a designated engineering course.
 Methods of leading discussion groups or lab sections, writing and grading quizzes, use of lab equipment, and grading lab reports.
@@ -83,6 +85,29 @@ May be repeated for credit.
 The whole point of this class is for you to improve as an instructor.
 I get to improve as an instructor as well by teaching this class, so everyone wins!
 It doesn't matter if you've had previous experience teaching or not, you can *always* improve your teaching and make things better.
+
+### Academic Misconduct
+
+Academic misconduct is a serious issue.
+You can find the official UC Davis policy on the [Office of Student Support and Judicial Affairs](https://ossja.ucdavis.edu/) website.
+
+You are expected to cite all of the work you reference.
+Any ideas that are not specifically yours or generally known should have a citation.
+When in doubt, cite.
+
+Any violations of this policy will result in reporting the violating student(s) to the Office of Student Support and Judicial Affairs.
+This can result in a 0 on the assignment or a U in the class.
+
+### Student Support
+
+As a student you may experience a range of issues that can cause barriers to learning, such as strained relationships, increased anxiety, alcohol/drug problems, feeling down, difficulty concentrating and/or lack of motivation.
+These mental health concerns or stressful events may lead to diminished academic performance or reduce a student’s ability to participate in daily activities.
+UC Davis is committed to advancing the mental health and well-being of its students.
+If you or someone you know is feeling overwhelmed, depressed, and/or in need of support, services are available.
+You can learn more about the broad range of confidential mental health services available on campus via [Student Health and Counseling Services](https://shcs.ucdavis.edu/).
+
+You can also contact myself to talk in private.
+My email is listed [above](#instructor).
 
 ## Websites
 
@@ -106,7 +131,7 @@ I'll make any announcements on the [Announcements tab](https://canvas.ucdavis.ed
 
 The course is graded on a Satisfactory / Unsatisfactory (S/U) basis.
 There are 30 points possible, described in more detail in the sections below.
-You need at least 80% of the points possible to get an S, as is typical of S/U classes at UC Davis.
+You need at least 80% of the points possible to get an S, as is typical of S/U classes at UC Davis, which means you can miss 6 points.
 Thus, if you end up missing a class or assignment once, don't worry about it.
 
 A brief breakdown is below:
@@ -116,12 +141,14 @@ A brief breakdown is below:
 | Attendance    | 60%      | 9 seminars x 2 points each = 18 points  |
 | Assignments   | 30%      | 9 assignments x 1 point each = 9 points |
 | Observation   | 10%      | 3 points                                |
-| **Total**     | *100%*   | *30 points*                             |
+| **Total**     | **100%** | **30 points**                           |
 
 ### Attendance
 
 Attendance for each class is mandatory.
+Sign in sheets (or something similar) will be passed around in class each week.
 This will be a course heavily based on discussion, so to get the most out of the course, you'll need to attend most weeks.
+Excusing attendance for a week requires a verifiable excuse (doctor's note, etc.).
 
 You get two points for each class you attend.
 There are 9 classes, so you get 18 points from attendance.
@@ -130,6 +157,8 @@ There are 9 classes, so you get 18 points from attendance.
 
 In addition to the attendance, there will usually be something that you need to submit on Canvas for that week as well.
 These are *usually* due at 16:00 on the following Monday, an hour before class, but check the due date carefully.
+No late assignments will be accepted without a verifiable excuse (doctor's note, etc.).
+
 Assignments will revolve around the following:
 
 * reflection on something discussed in class that week
@@ -160,7 +189,7 @@ I won't be observing TAs who are leading discussions this quarter.
 Instead, every student in the class will observe a discussion section of one of those TAs.
 This includes those who are leading discussions; you'll observe another TA.
 You will take notes and give suggestions to the TA on how they can improve their teaching.
-More about the assignment is explained on the assignment page on Canvas.
+More about the assignment is explained in the assignment page on Canvas.
 
 After the first week of class, I'll post a list of when and where the discussion sections led by our students are being held.
 You'll sign up for spots; only one observation per discussion will be allowed.
@@ -168,6 +197,7 @@ We will try to be fair and make it so that each TA gets roughly the same amount 
 
 This is the term project for this class, essentially.
 You'll get up to three points for doing this, depending on the quality of your notes.
+You need to finish this before finals start; no late observations will be accepted.
 
 ## Schedule
 
