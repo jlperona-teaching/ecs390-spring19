@@ -56,8 +56,8 @@ Email me to schedule an appointment.
 ### Curriculum
 
 This quarter is going to be a huge experiment for ECS 390.
-I'm going to be trying out a new curriculum, heavily based on the [*Megas and Gigas Educate* (MaGE)](https://sites.google.com/a/mtholyoke.edu/mage/) program developed at [Mount Holyoke College](https://www.mtholyoke.edu/).
-As they state on their website, MaGE is designed to:
+I'm going to be trying out a new curriculum, heavily based on the [*Megas and Gigas Educate (MaGE)*](https://sites.google.com/a/mtholyoke.edu/mage/) program developed at [Mount Holyoke College](https://www.mtholyoke.edu/).
+As they state on their website, *MaGE* is designed to:
 
 * raise awareness of the role of social identity in learning
 * emphasize active learning within computer science
