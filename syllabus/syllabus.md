@@ -88,6 +88,15 @@ There are 30 points possible, described in more detail in the sections below.
 You need at least 80% of the points possible to get an S, as is typical of S/U classes at UC Davis.
 Thus, if you end up missing a class or assignment once, don't worry about it.
 
+A brief breakdown is below:
+
+| *Category*    | *Weight* | *Explanation*                           |
+|---------------|----------|-----------------------------------------|
+| Attendance    | 60%      | 9 seminars x 2 points each = 18 points  |
+| Assignments   | 30%      | 9 assignments x 1 point each = 9 points |
+| Observation   | 10%      | 3 points                                |
+| **Total**     | *100%*   | *30 points*                             |
+
 ### Attendance
 
 Attendance for each class is mandatory.
