@@ -13,6 +13,27 @@ Inspiration for this course was drawn from the following people or programs:
 Content is licensed under CC BY 4.0.
 See the LICENSE file for more information.
 
+## Table of Contents
+
+* [Class and People](#class-and-people)
+    * [Seminars](#seminars)
+    * [Instructor](#instructor)
+* [About the Course](#about-the-course)
+    * [Curriculum](#curriculum)
+    * [Description](#description)
+    * [Objectives](#objectives)
+* [Websites](#websites)
+    * [GitHub](#github)
+    * [Canvas](#canvas)
+* [Coursework](#coursework)
+    * [Grading](#grading)
+    * [Attendance](#attendance)
+    * [Weekly Assignments](#weekly-assignments)
+    * [Observation](#observation)
+        * [Reasoning](#reasoning)
+        * [Assignment](#assignment)
+* [Schedule](#schedule)
+
 ## Class and People
 
 ### Seminars
