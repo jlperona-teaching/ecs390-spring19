@@ -27,7 +27,7 @@ Potential ways you can introduce yourself to your partner:
 
 * Your name, major, and year
 * What you hope to get out of this class
-* Your research focus (mine's computer science education)
+* Your research focus (mine's computer science education, popularly known as computing education research or CER)
 * Your favorite restaurant in Davis (mine's Thai Canteen)
 
 ## Guidelines and Expectations [10 min]
@@ -57,13 +57,59 @@ Some of these expectations are adapted from Kathy Obear's [*Suggested List of Le
 
 *Agree on how we should use technology in this class.*
 
-### Reasoning
+### Explanation
 
-Under construction.
+We're going to come to a consensus regarding a policy on the use of technology during this class.
+I want you to have a say, instead of me dictating the policy outright.
+
+### Reflection and Discussion
+
+Take a bit of time to think about how much you pay attention in class where you can't use technology.
+Compare this to your attention in a class where there are no restrictions on how much you use technology.
+
+After a while, I'll ask the class to share their observations.
+How does technology impact your ability to focus, if it does at all?
+
+### Personal Impact
+
+In a lecture-based class, I (as the lecturer) don't mind if my students are using technology.
+Some of them might be taking notes on their laptops.
+That being said, some of my students may not feel the same way, if somebody's laptop in front of them is distracting.
+I haven't taught a discussion-based course before, so I can't speak to its impact.
+
+As a student, I try my best to avoid using technology.
+It's definitely a distraction, as the course I took last quarter proved.
+I don't mind using my phone to check the time or see if I received a notification, but any more than that interrupts my focus on the class.
+
+As an aside, you don't need to take notes in this class if you don't want to.
+All these seminar notes are provided online, and I will make sure to post anything else you need on GitHub or Canvas.
 
 ### Voting
 
-Under construction.
+You'll vote for the policy that you'd like me to implement in this class.
+Your choices are the following:
+
+1. No restrictions of any kind.
+2. No restrictions on laptops and tablets, but no cell phone use.
+3. No technology during the discussion portions of the class, your best judgment the rest of the time.
+4. No technology at any time.
+
+I will pass out a ballot to each person.
+Please write your name on the ballot, as this will serve as the sign in sheet for today.
+Indicate your policy preference on the sheet, or abstain by not marking one.
+
+*Only I will know exactly how you voted.
+I will not reveal your specific choice to anyone else.
+What you choose will have no impact on your grade, as I am only grading on attendance.*
+
+### Results
+
+I will collect the ballots and count them.
+When I have finished counting, I will confirm the result with the class and make sure that you understand what this policy means.
+You will have a chance to ask any questions or raise any concerns before we move on.
+
+After class is over, I will add the policy to the [syllabus](../syllabus/syllabus.md).
+I will (politely) enforce the policy in future classes, if required.
 
 ## Initial Reflection About Learning [10 min]
 

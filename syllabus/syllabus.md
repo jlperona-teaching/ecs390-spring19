@@ -201,4 +201,5 @@ You need to finish this before finals start; no late observations will be accept
 
 ## Schedule
 
-See the [official schedule](https://github.com/jlperona-teaching/ecs390-spring19/blob/master/syllabus/schedule.csv) on GitHub.
+See the [official schedule](./schedule.csv) on GitHub for the course schedule.
+For more details on what we're going to cover each week, see the [seminar notes](../seminars/README.md).
