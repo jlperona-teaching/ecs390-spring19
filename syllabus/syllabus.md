@@ -18,6 +18,7 @@ See the LICENSE file for more information.
 * [Class and People](#class-and-people)
     * [Seminars](#seminars)
     * [Instructor](#instructor)
+    * [Technology Policy](#technology-policy)
 * [About the Course](#about-the-course)
     * [Curriculum](#curriculum)
     * [Official Description](#official-description)
@@ -50,6 +51,10 @@ Emails to me about the course must have the tag **[ECS 390]** (including the bra
 
 Office hours by appointment only.
 Email me to schedule an appointment.
+
+### Technology Policy
+
+As [voted on in the first day of class](../seminars/week01.md), there are no restrictions on using technology during class.
 
 ## About the Course
 
