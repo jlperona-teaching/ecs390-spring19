@@ -12,11 +12,52 @@ The majority of the content for this week was derived from the [*MaGE* Resources
 
 ## Mindset and Self-Efficacy Introduction [10 min]
 
-Under construction.
+*Common language and terms for the remainder of the class.*
 
-## Reading from Last Week
+### Mindset
 
-Under construction.
+#### Reading from Last Week
+
+Before we continue, I'll ask if anybody who read the assigned reading from last week would like to share what they think mindset is, and the different types of mindsets.
+
+If you haven't already determined what your mindset is, I'd suggest going back and reading the assigned reading from last week.
+I would have liked to let you do so here, but there's quite a bit of content we need to cover.
+
+#### Definition
+
+This definition is taken from [slides provided by the *MaGE* Program](https://drive.google.com/open?id=1odO7a3DbPxb8VsdsdlPDSUVMXvmCt-ANPWxcdCjT_-U).
+
+There are two types of mindsets, *fixed* and *growth*.
+Those who have a fixed mindset believe that:
+
+* Your basic qualities, like intelligence or talent, are simply fixed traits.
+* You should document your intelligence or talent instead of developing them.
+* This mindset means talent alone creates success, without effort.
+
+Those who have a growth mindset believe that:
+
+* Your basic abilities can be developed through dedication and hard work.
+* Brains and talent are just the starting point.
+* This mindset creates a love of learning and a resilience that is essential for great accomplishment.
+
+Keep in mind that your mindset isn't fixed.
+As the last sentence of the reading from last week states, you *can* change your mindset.
+
+### Self-Efficacy
+
+#### Video
+
+Before we dive into the definition, we're going to watch a student video explaining it.
+This video is [available on Canvas](https://canvas.ucdavis.edu/courses/356010/files/folder/Seminar%20Materials?preview=5683834).
+I believe that this video was made by a student in the *MaGE* Program, but I'm not completely certain.
+
+#### Definition
+
+This definition is taken from [slides provided by the *MaGE* Program](https://drive.google.com/open?id=1odO7a3DbPxb8VsdsdlPDSUVMXvmCt-ANPWxcdCjT_-U).
+
+Self-efficacy is the belief in your own ability to succeed in achieving a goal.
+The higher your self-efficacy is, the more you believe you are capable of accomplishing a task.
+People are less likely to attempt something with their full effort if their self-efficacy is lower for that task, because people tend to only try things that they believe they will be successful in.
 
 ## Mindset and Self-Efficacy Scenarios [25 min]
 
@@ -31,6 +72,7 @@ A circle would be great, but may not be possible in this classroom.
 I will assign a scenario to each group.
 Read through the scenario, which will be shown on the projector.
 Once everyone is done reading, go through the discussion prompts below.
+If you finish early, you can read through the other scenario and discuss it if you'd like.
 
 I will provide a piece of scratch paper and a pen to each group.
 Each group will assign a scribe to write down their answers for each question.
