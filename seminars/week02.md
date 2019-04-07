@@ -4,20 +4,128 @@ Author: Justin Perona
 
 # Week 2
 
-Under construction.
+This week's focus is all about mindset and self-efficacy.
+If you read the chapter assigned last week, then you'll have an idea about mindset and some insight into what your mindset is.
+We'll explore that topic further and introduce the idea of self-efficacy today.
+
+The majority of the content for this week was derived from the [*MaGE* Resources](https://sites.google.com/mtholyoke.edu/mage-training-curriculum/home) provided by the *MaGE* Program.
 
 ## Mindset and Self-Efficacy Introduction [10 min]
 
 Under construction.
 
-## Mindset and Self-Efficacy Scenarios [30 min]
+## Reading from Last Week
 
 Under construction.
 
-## General Discussion on Mindset and Self-Efficacy [10 min]
+## Mindset and Self-Efficacy Scenarios [25 min]
 
-Under construction.
+*Concrete examples of how mindset and self-efficacy matter.*
+
+### Splitting into Groups
+
+For this exercise, we're going to split into two groups.
+Rearrange yourselves so that you can all discuss with each other.
+A circle would be great, but may not be possible in this classroom.
+
+I will assign a scenario to each group.
+Read through the scenario, which will be shown on the projector.
+Once everyone is done reading, go through the discussion prompts below.
+
+I will provide a piece of scratch paper and a pen to each group.
+Each group will assign a scribe to write down their answers for each question.
+*Write down your name on the scratch paper.
+This is the sign-in sheet for today.
+It will be collected, but I am not grading what you write.*
+
+### Scenario 1
+
+#### Description
+
+It is almost 2 weeks into the quarter, just before the drop deadline, and a mentee says, "I suck at CS.
+My code always has bugs, I'm spending hours in the CSIF waiting for help from the TAs, and then the TAs can't even fix it."
+Their mentor says, "It's okay, not everyone is good at CS."
+The mentee continues, "I was really excited about learning to program, but now I think I should just give up."
+The mentor responds by saying, "Yeah, this assignment is pretty easy; I didn't need help when I did it in my undergrad here.
+Maybe you should think about dropping the course and taking something that you're good at instead?"
+
+#### Discussion Prompts
+
+* Does the mentee's self-efficacy accurately reflect their ability? What mindsets are the mentee and mentor displaying? What cues indicate this?
+* How do self-efficacy and mindset intersect in this scenario?
+* How could the mentor respond differently to the mentee to cultivate effective learning?
+
+### Scenario 2
+
+#### Description
+
+A mentee shows up to lab and immediately asks for assistance.
+When the mentor comes over to help, the mentee says, "I don't know what this lab is about. Can you tell me what to do?"
+The mentor asks if they've read the instructions, and the mentee responds, "Not really.
+I'm not good with computers.
+I know I won't be able to understand what's really going on, but I just need enough help to get through this."
+
+#### Discussion Prompts
+
+* Does the mentee have a fixed or growth mindset about computer science? What level of self-efficacy do they have for computer science? How is this impacting their approach to learning?
+* What is the relationship between the mentee's mindset and level of self-efficacy?
+* If you were the mentor in this scenario, how would you respond?
+
+### Coming Back Together
+
+After 15 minutes, I will ask everybody to come back together.
+For the remaining 10 minutes, we will go through both scenarios so that everyone has an idea of what was covered.
+I will ask each group to share what they wrote down in response to the prompts.
+
+At the end of this topic, I will collect the papers that each group wrote on, as this is the attendance for today.
+I will ask if anyone forgot to sign in.
+
+## General Discussion on Mindset and Self-Efficacy [15 min]
+
+*Share your thoughts and ask any questions you may have.*
+
+### Discussion
+
+After we have gone through the scenarios, we'll discuss what we've covered today.
+We'll do so for the remainder of the class.
+
+### Prompts
+
+I'll ask for any thoughts or questions that you have as we've gotten more familiar with mindsets and self-efficacy.
+I'll share my own thoughts about how it relates to my life and how I think about learning, if the discussion permits.
+
+From there, I'll allow the discussion to flow naturally.
+If there's a lull, I'll ask the following, but we're not required to get to them all.
+
+* Has this changed the way you think about your own abilities at all?
+* Can you think of any moments in your life when things would have gone very differently if you'd had more of a growth mindset about something?
+* What do you think is the relationship between mindset and self-efficacy?
+* Why are mindset and self-efficacy important to keep in mind when working with introductory-level students?
 
 ## Assignment for This Week
 
-Under construction.
+*Introducing the concept of emotional intelligence.*
+
+### Reading
+
+Read through Chapter 3 of *Emotional Intelligence* by Daniel Goleman.
+You can find a PDF in the [Files section on Canvas](https://canvas.ucdavis.edu/courses/356010/files/folder/Readings?preview=5682328).
+This introduces the idea of *emotional intelligence*, which we will discuss further next week.
+
+### Review
+
+The review format is adapted from the format for the [paper reviews for ECS 201C](https://github.com/jlpteaching/ECS201C/blob/master/syllabus.md#paper-reviews) by Jason Lowe-Power.
+
+Write a review of the reading above.
+Your review should contain two short paragraphs:
+
+1. A short summary of the reading, and any key insights or implications.
+2. Your own thoughts about the reading. Anything that stood out or resonated with you, or a topic/question about it for next week.
+
+Submit your review in the [assignment for this week on Canvas](https://canvas.ucdavis.edu/courses/356010/assignments/310479).
+
+### Grading
+
+I'm looking to see if you read the paper.
+I am not going to grade this that harshly.
+That being said, if it's clear from your review that you didn't read the paper, you may not receive full credit.
