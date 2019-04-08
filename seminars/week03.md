@@ -13,45 +13,105 @@ The majority of the content for this week was derived from the [*MaGE* Resources
 
 ## Observation Explanation [10 min]
 
-*Explain the class project and what we are doing.*
+*Explain the class project and how you will be observing your fellow students' discussions.*
+
+### Assignment Description
 
 Under construction.
+
+### Signing Up for Discussions
+
+Under construction.
+
+### Tone
+
+To lead us into our focus for this week, we will talk briefly about the tone of your observation.
+
+Imagine you are a discussion leader, and one of your fellow students is observing your discussion.
+Afterwards, you get feedback on your discussion.
+For each example below, how would you feel if the observer summarized their feedback with the following?
+
+* You barely checked in with the class at all.
+* You have the basics down. However, you need to be more careful about checking in with the class every now and then. You checked in a few times, which is a good start. Just remember to come back to the class more frequently in the future and see how they're doing.
+
+We will discuss your responses briefly, and what this means for your observations.
+This will serve as a transition into the main topic.
 
 ## Criticism and Tone [15 min]
 
-Under construction.
+*How your method of delivering information matters.*
 
 ### Reading From Last Week
 
-Under construction.
+To start this topic, we will talk about the paper reading from last week.
+I'll ask about what its insights were on feedback, and if the authors mentioned anything about tone.
+After that, I'll ask for any comments or questions on the reading.
 
 ### Slides
 
-Under construction.
+Next, we'll go through some slides on effective feedback.
+You can find these slides in the [Files section on Canvas](https://canvas.ucdavis.edu/courses/356010/files/folder/Seminar%20Materials?preview=5691739).
+These slides were adapted from ones provided by the *MaGE* Program.
+
+After we go through the slides, I will ask for any questions about what we just talked about.
 
 ## Discussing Effective Feedback [15 min]
 
-Under construction.
+*What do you think makes feedback effective?*
+
+### Poll
+
+Now that we have covered a bit about tone, let's move to a discussion about your experiences with feedback.
+
+I will pass around a questionnaire to each person that will look like the ballot from week 1.
+Please write your name on the questionnaire, as this will serve as the sign in sheet for today.
+There will be one question on the questionnaire.
+Please mark *Yes* or *No* on the questionnaire in response to the following question:
+
+> Have you ever had a negative experience with receiving feedback from somebody else?
+
+*Only I will know exactly what you marked.
+I will not reveal your specific choice to anyone else, though I will reveal the results in the aggregate to further the discussion.
+What you mark will have no impact on your grade, as I am only grading on attendance.*
+
+Afterwards, I will collect the questionnaire and count them.
+When I have finished counting, I will reveal the results in the aggregate.
 
 ### Discussion
 
-Under construction.
+After the poll, we will discuss your interactions and feelings about feedback.
+As a TA, part of your role may be giving feedback to students via grading, so if you serve in that capacity, you will influence the learning experiences that your students will have.
 
 ### Prompts
 
-Under construction.
+I'll ask how feedback has affected you personally.
+It can be good or bad.
+You can also talk about how it impacted you at the time, or how you feel when you think back on it.
+
+From there, I'll allow the discussion to flow naturally.
+I'll share my own experiences with feedback and criticism, if the discussion permits.
+If there's a lull, I'll ask the following, but we're not required to get to them all.
+
+* Can you think of any moment when someone gave you very "unbuffered" feedback? How did it make you feel? What impact did it have on you going forward?
+* Can you think of any moments when it was easy for you to receive criticism? Why do you think it was easy?
+* What kind of feedback from instructors do you find most helpful? Is there a particular format that works better for you?
 
 ## What is Emotional Intelligence [10 min]
 
-Under construction.
+*A brief introduction to emotional intelligence.*
 
 ### Introduction
 
-Under construction.
+I'll ask if anybody has heard of emotional intelligence (EI) before.
+We'll have a brief discussion about what we think it means.
 
 ### Slides
 
-Under construction.
+To finish today, we will go through some slides on EI.
+You can find these slides in the [Files section on Canvas](https://canvas.ucdavis.edu/courses/356010/files/folder/Seminar%20Materials?preview=5692003).
+These slides were adapted from ones provided by the *MaGE* Program.
+
+After we go through the slides, I will ask for any questions about what we just talked about.
 
 ## Assignment for This Week
 
