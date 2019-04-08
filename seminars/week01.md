@@ -177,7 +177,7 @@ See the assignment page for more information.
 
 ### Reading for Next Week
 
-Also, read through the first chapter of *Mindset: The New Psychology of Success* by Carol Dweck.
+Also, read through the first chapter of *Mindset: The New Psychology of Success* by Carol Dweck of Stanford University.
 You can find a PDF in the [Files section on Canvas](https://canvas.ucdavis.edu/courses/356010/files/folder/Readings?preview=5628174).
 You don't need to write a summary or anything like that.
 However, you should go through the two questionnaires and figure out what type of mindset you have for both intelligence and personality.

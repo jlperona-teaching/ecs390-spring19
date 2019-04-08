@@ -93,7 +93,7 @@ In particular, there is no correct answer to the second one.
 ### Coming Back Together
 
 After 15 minutes, I will ask everybody to come back together.
-For the remaining 15 minutes, we will go through the scenarios.
+For the remainder of the class, we will discuss each scenario.
 I will ask everybody for observations about the scenarios that they'd like to share.
 Depending on how the conversation flows, I may bring up my expectations of your behavior in each situation.
 

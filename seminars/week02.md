@@ -154,7 +154,7 @@ If there's a lull, I'll ask the following, but we're not required to get to them
 
 ### Reading
 
-Read through *Do students value feedback? Student perceptions of tutors’ written responses* by Melanie R. Weaver.
+Read through *Do students value feedback? Student perceptions of tutors’ written responses* by Melanie R. Weaver of Nottingham Trent University, published in *Assessment & Evaluation in Higher Education*.
 You can find a PDF in the [Files section on Canvas](https://canvas.ucdavis.edu/courses/356010/files/folder/Readings?preview=5685552).
 This leads into next week's material, where we will discuss feedback and what makes it effective.
 
