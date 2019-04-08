@@ -5,23 +5,25 @@ Author: Justin Perona
 # Week 2
 
 This week's focus is all about mindset and self-efficacy.
-If you read the chapter assigned last week, then you'll have an idea about mindset and some insight into what your mindset is.
+If you read the chapter from last week, then you'll have an idea about mindset and some insight into what your mindset is.
 We'll explore that topic further and introduce the idea of self-efficacy today.
 
 The majority of the content for this week was derived from the [*MaGE* Resources](https://sites.google.com/mtholyoke.edu/mage-training-curriculum/home) provided by the *MaGE* Program.
 
 ## Mindset and Self-Efficacy Introduction [10 min]
 
-*Common language and terms for the remainder of the class.*
+*Common language and terms for the remainder of today.*
 
 ### Mindset
+
+We will cover the concept of *mindset* first.
 
 #### Reading From Last Week
 
 Before we continue, I'll ask if anybody who read the assigned reading from last week would like to share what they think mindset is, and the different types of mindsets.
 
 If you haven't already determined what your mindset is, I'd suggest going back and reading the assigned reading from last week.
-I would have liked to let you do so here, but there's quite a bit of content we need to cover.
+I would have liked to let you do so here, but there's quite a bit of content we need to cover today.
 
 #### Definition
 
@@ -45,11 +47,13 @@ As the last sentence of the reading from last week states, you *can* change your
 
 ### Self-Efficacy
 
+After our mindset discussion, I'll introduce the concept of *self-efficacy*.
+
 #### Video
 
 Before we dive into the definition, we're going to watch a student video explaining it.
 This video is [available on Canvas](https://canvas.ucdavis.edu/courses/356010/files/folder/Seminar%20Materials?preview=5683834).
-I believe that this video was made by a student in the *MaGE* Program, but I'm not completely certain.
+I believe that this video was made by a former student in the *MaGE* Program, but I'm not completely certain.
 
 #### Definition
 
@@ -71,12 +75,12 @@ A circle would be great, but may not be possible in this classroom.
 
 I will assign a scenario to each group.
 Read through the scenario, which will be shown on the projector.
-Once everyone is done reading, go through the discussion prompts below.
+Once everyone is done reading, respond to the discussion prompts below.
 If you finish early, you can read through the other scenario and discuss it if you'd like.
 
 I will provide a piece of scratch paper and a pen to each group.
-Each group will assign a scribe to write down their answers for each question.
-*Write down your name on the scratch paper.
+Each group will assign a scribe to write down their responses to each question.
+*Make sure everybody writes down their names on the scratch paper.
 This is the sign-in sheet for today.
 It will be collected, but I am not grading what you write.*
 

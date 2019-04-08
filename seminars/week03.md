@@ -4,7 +4,12 @@ Author: Justin Perona
 
 # Week 3
 
-Under construction.
+This week's focus is on criticism and feedback.
+First, we will discuss the observations which serve as the class project, which ties into this week's focus.
+We will then talk about how to deliver criticism and what constitutes effective feedback, and tie that to the reading from last week.
+Finally, we will segue into a short introduction to emotional intelligence, which we will cover in more detail next week.
+
+The majority of the content for this week was derived from the [*MaGE* Resources](https://sites.google.com/mtholyoke.edu/mage-training-curriculum/home) provided by the *MaGE* Program.
 
 ## Observation Explanation [10 min]
 
