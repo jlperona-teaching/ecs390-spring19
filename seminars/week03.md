@@ -6,12 +6,68 @@ Author: Justin Perona
 
 Under construction.
 
-## Observation Explanation [5 min]
+## Observation Explanation [10 min]
 
 *Explain the class project and what we are doing.*
 
 Under construction.
 
-## Assignment for This Week
+## Criticism and Tone [15 min]
 
 Under construction.
+
+### Reading From Last Week
+
+Under construction.
+
+### Slides
+
+Under construction.
+
+## Discussing Effective Feedback [15 min]
+
+Under construction.
+
+### Discussion
+
+Under construction.
+
+### Prompts
+
+Under construction.
+
+## What is Emotional Intelligence [10 min]
+
+Under construction.
+
+### Introduction
+
+Under construction.
+
+### Slides
+
+Under construction.
+
+## Assignment for This Week
+
+Read through Chapter 3 of *Emotional Intelligence* by Daniel Goleman.
+You can find a PDF in the [Files section on Canvas](https://canvas.ucdavis.edu/courses/356010/files/folder/Readings?preview=5682328).
+We started discussing emotional intelligence at the end of today, and we will finish discussing it next week.
+
+### Review
+
+The review format is adapted from the format for the [paper reviews for ECS 201C](https://github.com/jlpteaching/ECS201C/blob/master/syllabus.md#paper-reviews) by Jason Lowe-Power.
+
+Write a review of the reading above.
+Your review should contain two short paragraphs:
+
+1. A short summary of the reading, and any key insights or implications.
+2. Your own thoughts about the reading. Anything that stood out or resonated with you, or a topic/question about it for next week.
+
+Submit your review in the [assignment for this week on Canvas](https://canvas.ucdavis.edu/courses/356010/assignments/310488).
+
+### Grading
+
+I'm looking to see if you read the paper.
+I am not going to grade this that harshly.
+That being said, if it's clear from your review that you didn't read the paper, you may not receive full credit.

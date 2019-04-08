@@ -16,7 +16,7 @@ The majority of the content for this week was derived from the [*MaGE* Resources
 
 ### Mindset
 
-#### Reading from Last Week
+#### Reading From Last Week
 
 Before we continue, I'll ask if anybody who read the assigned reading from last week would like to share what they think mindset is, and the different types of mindsets.
 
@@ -146,13 +146,13 @@ If there's a lull, I'll ask the following, but we're not required to get to them
 
 ## Assignment for This Week
 
-*Introducing the concept of emotional intelligence.*
+*What constitutes good feedback?*
 
 ### Reading
 
-Read through Chapter 3 of *Emotional Intelligence* by Daniel Goleman.
-You can find a PDF in the [Files section on Canvas](https://canvas.ucdavis.edu/courses/356010/files/folder/Readings?preview=5682328).
-This introduces the idea of *emotional intelligence*, which we will discuss further next week.
+Read through *Do students value feedback? Student perceptions of tutors’ written responses* by Melanie R. Weaver.
+You can find a PDF in the [Files section on Canvas](https://canvas.ucdavis.edu/courses/356010/files/folder/Readings?preview=5685552).
+This leads into next week's material, where we will discuss feedback and what makes it effective.
 
 ### Review
 
