@@ -116,6 +116,13 @@ If there's a lull, I'll ask the following, but we're not required to get to them
 * Can you think of any moments when it was easy for you to receive criticism? Why do you think it was easy?
 * What kind of feedback from instructors do you find most helpful? Is there a particular format that works better for you?
 
+### Further Reading
+
+These examples were provided to me by Jason Lowe-Power of UC Davis.
+
+[This feedback rubric](https://canvas.ucdavis.edu/courses/356010/files/folder/Seminar%20Materials?preview=5745772) from UC Merced provides some useful examples of what is useful feedback, and what isn't.
+You can also look at [this 3 minute video on YouTube](https://www.youtube.com/watch?v=8-aaKMva4lc) from the same group at UC Merced.
+
 ## What is Emotional Intelligence [10 min]
 
 *A brief introduction to emotional intelligence.*
