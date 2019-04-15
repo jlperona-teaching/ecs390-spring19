@@ -32,9 +32,9 @@ See the LICENSE file for more information.
     * [Grading](#grading)
     * [Attendance](#attendance)
     * [Weekly Assignments](#weekly-assignments)
-    * [Observation](#observation)
-        * [Reasoning](#reasoning)
-        * [Assignment](#assignment)
+    * [Track Assignments](#track-assignments)
+        * [Track A - Discussion Observations](#track-a-discussion-observations)
+        * [Track B - CEE Workshop Attendance](#track-b-cee-workshop-attendance)
 * [Schedule](#schedule)
 
 ## Class and People
@@ -141,12 +141,12 @@ Thus, if you end up missing a class or assignment once, don't worry about it.
 
 A brief breakdown is below:
 
-| *Category*    | *Weight* | *Explanation*                           |
-|---------------|----------|-----------------------------------------|
-| Attendance    | 60%      | 9 seminars x 2 points each = 18 points  |
-| Assignments   | 30%      | 9 assignments x 1 point each = 9 points |
-| Observation   | 10%      | 3 points                                |
-| **Total**     | **100%** | **30 points**                           |
+| *Category*       | *Weight* | *Explanation*                           |
+|------------------|----------|-----------------------------------------|
+| Attendance       | 60%      | 9 seminars x 2 points each = 18 points  |
+| Assignments      | 30%      | 9 assignments x 1 point each = 9 points |
+| Track Assignment | 10%      | 3 points                                |
+| **Total**        | **100%** | **30 points**                           |
 
 ### Attendance
 
@@ -173,36 +173,43 @@ Assignments will revolve around the following:
 You get one point for each assignment.
 There are 9 assignments, so you get 9 points from assignments.
 
-### Observation
+### Track Assignment
 
-#### Reasoning
+This is equivalent to the class project.
+There's two different tracks, depending on whether or not you'll be leading discussions this quarter or not.
+For discussion leaders, your assignment involves me observing one of your discussions.
+If you're not leading discussions, either because you're only grading or you're not a TA this quarter, then you're going to have an alternative assignment revolving around exposing you to something new in terms of teaching.
 
-Normally, in this course, the instructor would observe TAs who are leading discussions that quarter.
-Due to this, students who weren't leading discussions the quarter they took the class wouldn't get an observation of their teaching skills.
-Making things truly equal for students taking this class would require one of the following:
+You get three points for your track assignment.
+You only need to do one of the two.
 
-* only allowing students who are currently leading discussions to take this class
-* giving everybody taking this class a TA position in which they lead discussions
+#### Track A - Discussion Observations
 
-Both of these solutions are untenable for a variety of reasons.
-While I can't make things equal, I can try to make things more equitable.
-This quarter is already a huge experiment, so we're going to try a new assignment and see if it works out.
+I will be observing one of your discussion sections sometime this quarter.
+You have already submitted a list of when and where your discussions are in [the first assignment](https://canvas.ucdavis.edu/courses/356010/assignments/310478).
 
-#### Assignment
+I will email you to confirm the date and time of one of your discussions.
+Once we've confirmed, I'll observe that discussion and give you feedback.
+You can see the style of feedback that I'll be giving in the `observations/` folder [here on GitHub](../observations).
 
-I won't be observing TAs who are leading discussions this quarter.
-Instead, every student in the class will observe a discussion section of one of those TAs.
-This includes those who are leading discussions; you'll observe another TA.
-You will take notes and give suggestions to the TA on how they can improve their teaching.
-More about the assignment is explained in the assignment page on Canvas.
+For the observation itself, you will start on time like normal.
+Five minutes before your discussion ends, I will ask you to leave the room, and I will take both positive feedback and constructive criticism from the class in the remaining five minutes.
+I'll send you the feedback from the class and myself through email sometime after the observation.
 
-After the first week of class, I'll post a list of when and where the discussion sections led by our students are being held.
-You'll sign up for spots; only one observation per discussion will be allowed.
-We will try to be fair and make it so that each TA gets roughly the same amount of observations over the quarter.
+#### Track B - CEE Workshop Attendance
 
-This is the term project for this class, essentially.
-You'll get up to three points for doing this, depending on the quality of your notes.
-You need to finish this before finals start; no late observations will be accepted.
+The [Center for Educational Effectiveness](https://cee.ucdavis.edu/) (or CEE) promotes and supports effective learning for all UC Davis students.
+You're probably already met them at TA orientation.
+CEE holds workshops every quarter on a variety of topics to help you improve your teaching.
+This quarter's emphasis is on hybrid and online courses.
+
+Your assignment will be to attend a CEE workshop, and write a short paragraph on what you learned there.
+The paragraph doesn't need to be very detailed, I'm just curious as to what you learned.
+You can view all the available workshops on [CEE's website](https://ucdavis.app.box.com/s/ijoz1t6a03noas1c5g3kkzducs5uagpt).
+Feel free to attend any one that strikes your fancy, though keep in mind some of the workshops are oriented towards faculty and not graduate students.
+
+Note that you need to register ahead of time on each event's page.
+When you submit your paragraph, also attach a screenshot of the registration confirmation email that you get from CEE.
 
 ## Schedule
 

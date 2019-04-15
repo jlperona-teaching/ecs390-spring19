@@ -5,37 +5,57 @@ Author: Justin Perona
 # Week 3
 
 This week's focus is on criticism and feedback.
-First, we will discuss the observations which serve as the class project, as it ties into this week's focus.
+First, we will discuss the change in the class project.
 We will then talk about how to deliver criticism and what constitutes effective feedback, and tie that to the reading from last week.
 Finally, we will segue into a short introduction to emotional intelligence, which we will cover in more detail next week.
 
 The majority of the content for this week was derived from the [*MaGE* Resources](https://sites.google.com/mtholyoke.edu/mage-training-curriculum/home) provided by the *MaGE* Program.
 
-## Observation Explanation [10 min]
+## Change in Class Project [10 min]
 
-*Explain the class project and how you will be observing your fellow students' discussions.*
+*Explain the change in the class project.*
 
-### Assignment Description
+### Explanation
 
-Under construction.
+Due to the small class size, and the smaller number of TAs, I'm cancelling the discussion observations.
+I don't want anybody to feel as if they're being singled out by an observer.
+Instead, we're going to fall back to the assignments I used in Fall Quarter 2018.
 
-### Signing Up for Discussions
+### Tracks
 
-Under construction.
+There's two different tracks, depending on whether or not you'll be leading discussions this quarter or not.
+For discussion leaders, your assignment involves me observing one of your discussions.
+If you're not leading discussions, either because you're only grading or you're not a TA this quarter, then you're going to have an alternative assignment revolving around exposing you to something new in terms of teaching.
 
-### Tone
+In terms of grading, it will be worth the same amount as the original observation, so 10% of your grade.
 
-To lead us into our focus for this week, we will talk briefly about the tone of your observation.
+#### Track A - Discussion Observations
 
-Imagine you are a discussion leader, and one of your fellow students is observing your discussion.
-Afterwards, you get feedback on your discussion.
-For each example below, how would you feel if the observer summarized their feedback with the following?
+I will be observing one of your discussion sections sometime this quarter.
+You have already submitted a list of when and where your discussions are in [the first assignment](https://canvas.ucdavis.edu/courses/356010/assignments/310478).
 
-* You barely checked in with the class at all.
-* You have the basics down. However, you need to be more careful about checking in with the class every now and then. You checked in a few times, which is a good start. Just remember to come back to the class more frequently in the future and see how they're doing.
+I will email you to confirm the date and time of one of your discussions.
+Once we've confirmed, I'll observe that discussion and give you feedback.
+You can see the style of feedback that I'll be giving in the `observations/` folder [here on GitHub](../observations).
 
-We will discuss your responses briefly, and what this means for your observations.
-This will serve as a transition into the main topic.
+For the observation itself, you will start on time like normal.
+Five minutes before your discussion ends, I will ask you to leave the room, and I will take both positive feedback and constructive criticism from the class in the remaining five minutes.
+I'll send you the feedback from the class and myself through email sometime after the observation.
+
+#### Track B - CEE Workshop Attendance
+
+The [Center for Educational Effectiveness](https://cee.ucdavis.edu/) (or CEE) promotes and supports effective learning for all UC Davis students.
+You're probably already met them at TA orientation.
+CEE holds workshops every quarter on a variety of topics to help you improve your teaching.
+This quarter's emphasis is on hybrid and online courses.
+
+Your assignment will be to attend a CEE workshop, and write a short paragraph on what you learned there.
+The paragraph doesn't need to be very detailed, I'm just curious as to what you learned.
+You can view all the available workshops on [CEE's website](https://ucdavis.app.box.com/s/ijoz1t6a03noas1c5g3kkzducs5uagpt).
+Feel free to attend any one that strikes your fancy, though keep in mind some of the workshops are oriented towards faculty and not graduate students.
+
+Note that you need to register ahead of time on each event's page.
+When you submit your paragraph, also attach a screenshot of the registration confirmation email that you get from CEE.
 
 ## Criticism and Tone [15 min]
 

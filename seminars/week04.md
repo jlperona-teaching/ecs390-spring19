@@ -103,3 +103,18 @@ I will ask if anyone forgot to sign in.
 ## Assignment for This Week
 
 Under construction.
+
+### Extra Credit
+
+In order to get the extra credit for this week, *you need to do the original assignment as well*.
+Submit your response together with the assignment for this week on Canvas.
+Extra credit will be assigned based on the quality of your responses and how much thought you put into them.
+
+In this class, you've gotten a chance to have a discussion in a bigger group (10-11 people) and a smaller group (3-4 people).
+Answer the following questions about your experiences.
+You can draw from prior experiences if it will help answer some of these questions.
+
+* Which group size worked better for you? Why was this the case for you?
+* Which group size do you think worked better for *the group as a whole*? Why do you think this was the case?
+* One concern in group projects and discussions revolves around fairness and equity in participation. In your experience, do smaller or larger groups tend to be more fair and equitable?
+* Can you think of a mechanism that could make group projects or discussions more equitable in participation? What would be some potential downsides of that mechanism?
