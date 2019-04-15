@@ -32,9 +32,9 @@ See the LICENSE file for more information.
     * [Grading](#grading)
     * [Attendance](#attendance)
     * [Weekly Assignments](#weekly-assignments)
-    * [Track Assignments](#track-assignments)
-        * [Track A - Discussion Observations](#track-a-discussion-observations)
-        * [Track B - CEE Workshop Attendance](#track-b-cee-workshop-attendance)
+    * [Track Assignment](#track-assignment)
+        * [Track A - Discussion Observations](#track-a---discussion-observations)
+        * [Track B - CEE Workshop Attendance](#track-b---cee-workshop-attendance)
 * [Schedule](#schedule)
 
 ## Class and People
@@ -186,7 +186,7 @@ You only need to do one of the two.
 #### Track A - Discussion Observations
 
 I will be observing one of your discussion sections sometime this quarter.
-You have already submitted a list of when and where your discussions are in [the first assignment](https://canvas.ucdavis.edu/courses/356010/assignments/310478).
+You will submit a list of when and where your discussions are in [the first assignment](https://canvas.ucdavis.edu/courses/356010/assignments/310478).
 
 I will email you to confirm the date and time of one of your discussions.
 Once we've confirmed, I'll observe that discussion and give you feedback.
