@@ -102,9 +102,37 @@ I will ask if anyone forgot to sign in.
 
 ## Assignment for This Week
 
-Under construction.
+Read through *The Core Belief Keeping Marginalized Groups Out of Tech* by Dr. Nicole Forsgren and Jez Humble, originally published in *Model View Culture* in 2016.
+You can find the article [on *Model View Culture's* website](https://modelviewculture.com/pieces/the-core-belief-keeping-marginalized-groups-out-of-tech), though *Model View Culture* closed in 2017, [as per their post here](https://modelviewculture.com/news/model-view-culture-is-closing-down).
+This leads us into climate, which we will discuss next week.
+
+*Note*: the content in this article is of a serious nature.
+It is possible that you may not relate or agree with the content in the article.
+Even so, I ask that you be respectful when writing your review.
+I do not expect you to necessarily agree with the authors, but I expect that you will be respectful of their viewpoint.
+
+### Review
+
+The review format is adapted from the format for the [paper reviews for ECS 201C](https://github.com/jlpteaching/ECS201C/blob/master/syllabus.md#paper-reviews) by Jason Lowe-Power.
+
+Write a review of the reading above.
+Your review should contain two short paragraphs:
+
+1. A short summary of the reading, and any key insights or implications.
+2. Your own thoughts about the reading. Anything that stood out or resonated with you, or a topic/question about it for next week.
+
+Submit your review in the [assignment for this week on Canvas](https://canvas.ucdavis.edu/courses/356010/assignments/310489).
+
+### Grading
+
+I'm looking to see if you read the paper.
+I am not going to grade this that harshly.
+That being said, if it's clear from your review that you didn't read the paper, you may not receive full credit.
 
 ### Extra Credit
+
+The extra credit isn't related to the content for next week, but instead has you look back at your experiences from previous weeks.
+I'm curious as to how you feel about those now.
 
 In order to get the extra credit for this week, *you need to do the original assignment as well*.
 Submit your response together with the assignment for this week on Canvas.
