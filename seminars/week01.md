@@ -171,9 +171,12 @@ If there's a lull, I'll ask the following, but we're not required to get to them
 On [Canvas](https://canvas.ucdavis.edu/courses/356010), you'll have an assignment every week.
 The assignment is *usually* due at 16:00 on the following Monday.
 
-For [this week's assignment](https://canvas.ucdavis.edu/courses/356010/assignments/310478), tell me if you're currently TAing or not.
-If you are, and you're also leading discussions, I'll need a list of when and where those take place.
-See the assignment page for more information.
+For [this week's assignment](https://canvas.ucdavis.edu/courses/356010/assignments/310478), write down whether or not you're TAing this quarter, and if you're leading discussions.
+It should take you a couple of minutes at most.
+If you're not leading discussions, that's all you need to write.
+
+If you are leading discussions, please give the class, days, times, and rooms that you're leading discussions in.
+If you're not consistently leading discussions at the same time every week (because you're splitting that duty with someone else, or for any other reason) please also give the dates that you'll be leading discussions.
 
 ### Reading for Next Week
 
@@ -181,4 +184,4 @@ Also, read through the first chapter of *Mindset: The New Psychology of Success*
 You can find a PDF in the [Files section on Canvas](https://canvas.ucdavis.edu/courses/356010/files/folder/Readings?preview=5628174).
 You don't need to write a summary or anything like that.
 However, you should go through the two questionnaires and figure out what type of mindset you have for both intelligence and personality.
-(If you're disappointed with the mindsets you got, reread the last sentence of the chapter again.)
+(If you're disappointed with the mindsets you got, re-read the last sentence of the chapter again.)

@@ -142,6 +142,10 @@ After we go through the slides, I will ask for any questions about what we just 
 
 ## Assignment for This Week
 
+*Furthering your understanding of emotional intelligence.*
+
+### Reading
+
 Read through Chapter 3 of *Emotional Intelligence* by Daniel Goleman.
 You can find a PDF in the [Files section on Canvas](https://canvas.ucdavis.edu/courses/356010/files/folder/Readings?preview=5682328).
 We started discussing emotional intelligence at the end of today, and we will finish discussing it next week.

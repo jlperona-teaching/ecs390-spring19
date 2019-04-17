@@ -102,9 +102,15 @@ I will ask if anyone forgot to sign in.
 
 ## Assignment for This Week
 
-Read through *The Core Belief Keeping Marginalized Groups Out of Tech* by Dr. Nicole Forsgren and Jez Humble, originally published in *Model View Culture* in 2016.
-You can find the article [on *Model View Culture's* website](https://modelviewculture.com/pieces/the-core-belief-keeping-marginalized-groups-out-of-tech), though *Model View Culture* closed in 2017, [as per their post here](https://modelviewculture.com/news/model-view-culture-is-closing-down).
-This leads us into climate, which we will discuss next week.
+*Moving on to some more serious topics.*
+
+### Reading
+
+Read through *The Core Belief Keeping Marginalized Groups Out of Tech* by Dr. Nicole Forsgren and Jez Humble.
+This was originally published in the magazine *Model View Culture* in 2016.
+You can find the article [on *Model View Culture's* website](https://modelviewculture.com/pieces/the-core-belief-keeping-marginalized-groups-out-of-tech).
+Note that *Model View Culture* closed in 2017, [as per their post here](https://modelviewculture.com/news/model-view-culture-is-closing-down).
+This leads us into the idea of climate, which we will begin discussing next week.
 
 *Note*: the content in this article is of a serious nature.
 It is possible that you may not relate or agree with the content in the article.
@@ -129,14 +135,20 @@ I'm looking to see if you read the paper.
 I am not going to grade this that harshly.
 That being said, if it's clear from your review that you didn't read the paper, you may not receive full credit.
 
-### Extra Credit
+## Extra Credit
 
-The extra credit isn't related to the content for next week, but instead has you look back at your experiences from previous weeks.
+*Looking back at what worked for you.*
+
+### Explanation
+
+The extra credit isn't related to the content for next week, but instead has you look back at your experiences from this and previous weeks.
 I'm curious as to how you feel about those now.
 
 In order to get the extra credit for this week, *you need to do the original assignment as well*.
 Submit your response together with the assignment for this week on Canvas.
 Extra credit will be assigned based on the quality of your responses and how much thought you put into them.
+
+### Assignment
 
 In this class, you've gotten a chance to have a discussion in a bigger group (10-11 people) and a smaller group (3-4 people).
 Answer the following questions about your experiences.
