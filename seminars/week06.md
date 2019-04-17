@@ -19,6 +19,10 @@ The majority of the content for this week was derived from the [*MaGE* Resources
 
 Under construction.
 
+### Reading From Last Week
+
+Under construction.
+
 ## Intersectionality and Lived Experience [30 min]
 
 Under construction.

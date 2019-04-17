@@ -106,16 +106,10 @@ I will ask if anyone forgot to sign in.
 
 ### Reading
 
-Read through *The Core Belief Keeping Marginalized Groups Out of Tech* by Dr. Nicole Forsgren and Jez Humble.
-This was originally published in the magazine *Model View Culture* in 2016.
-You can find the article [on *Model View Culture's* website](https://modelviewculture.com/pieces/the-core-belief-keeping-marginalized-groups-out-of-tech).
-Note that *Model View Culture* closed in 2017, [as per their post here](https://modelviewculture.com/news/model-view-culture-is-closing-down).
+Read through *Introduction: The Myth of Technology as the 'Great Equalizer'* of *Stuck in the Shallow End: Education, Race, and Computing* by Jane Margolis of the University of California, Los Angeles.
+The book was also written with Rachel Estrella, Joanna Goode, Jennifer Jellison Holme, and Kim Nao.
+You can find a PDF in the [Files section on Canvas](https://canvas.ucdavis.edu/courses/356010/files/folder/Readings?preview=5761473).
 This leads us into the idea of climate, which we will begin discussing next week.
-
-*Note*: the content in this article is of a serious nature.
-It is possible that you may not relate or agree with the content in the article.
-Even so, I ask that you be respectful when writing your review.
-I do not expect you to necessarily agree with the authors, but I expect that you will be respectful of their viewpoint.
 
 ### Review
 
