@@ -6,6 +6,10 @@ Author: Justin Perona
 
 Under construction.
 
+## TA Responsibilities
+
+Under construction.
+
 ## Assignment for This Week
 
 Under construction.

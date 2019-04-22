@@ -150,5 +150,5 @@ You can draw from prior experiences if it will help answer some of these questio
 
 * Which group size worked better for you? Why was this the case for you?
 * Which group size do you think worked better for *the group as a whole*? Why do you think this was the case?
-* One concern in group projects and discussions revolves around fairness and equity in participation. In your experience, do smaller or larger groups tend to be more fair and equitable?
+* One concern in group projects and discussions revolves around fairness and equity in participation. In your experience, do smaller or larger groups tend to be more fair and equitable? Why has this been the case for you?
 * Can you think of a mechanism that could make group projects or discussions more equitable in participation? What would be some potential downsides of that mechanism?
