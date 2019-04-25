@@ -49,6 +49,10 @@ I will try to make it somewhat interactive rather than a straight lecture on the
 
 ## Assignment for This Week
 
+*Tools and other technology to make your teaching more effective.*
+
+### Reading
+
 Read through *Technology We Can't Live Without!, revisited* by Ria Galanos, Michael Ball, John Dougherty, Joe Hummel, and David J. Malan.
 This was originally published in the *ACM Technical Symposium on Computer Science Education* in 2018.
 You can find a PDF in the [Files section on Canvas](https://canvas.ucdavis.edu/courses/356010/files/folder/Readings?preview=5837174).
@@ -61,7 +65,7 @@ You don't need to review the paper this time.
 Instead, answer the following two questions:
 
 1. Have you used, or are currently using, any of the educational tools that the authors mentioned?
-2. Are there any tools that you haven't used on this list that may be useful to you as a TA in the future?
+2. Are there any tools on this list that you haven't used that may be useful to you in the future?
 
 Submit your responses in the [assignment for this week on Canvas](https://canvas.ucdavis.edu/courses/356010/assignments/310492).
 
