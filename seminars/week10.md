@@ -4,21 +4,39 @@ Author: Justin Perona
 
 # Week 10
 
+This week concludes the course.
+You'll have one last chance to ask any questions that you have on topics that we've covered in the course.
+I'll point out some other educational resources that may be helpful in your role as a TA.
+Finally, we'll wrap things up and I'll ask for your feedback.
+
+## Bringing It All Back
+
+*Final thoughts and questions.*
+
+Under construction.
+
+## Other Educational Resources
+
+*Other resources to help you continue to improve your teaching.*
+
 Under construction.
 
 ## Wrap Up
+
+*Wrapping everything up.*
 
 Under construction.
 
 ## Assignment for This Week
 
-*Wrapping everything up.*
+*One last thing before you go.*
 
 ### Feedback
 
 There are two sets of feedback to fill out to finish off the class.
 Only one of them is going to be graded, though.
-In addition, if you haven't done the observation yet, that also needs to be finished this week.
+In addition, if you haven't done your track assignment yet, that needs to be finished this week.
+There's one last CEE workshop tomorrow; check [CEE's graduate student workshop flyer](https://ucdavis.app.box.com/s/ijoz1t6a03noas1c5g3kkzducs5uagpt) for more information.
 
 *Note that the homework for this week is due on Thursday at 23:59.*
 It's due before the start of finals so I can finalize the grades as quickly as possible.
