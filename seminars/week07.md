@@ -12,7 +12,7 @@ Some of the content for this week was derived from the [*MaGE* Resources](https:
 
 ## Purpose of TAs [10 min]
 
-*What are teaching assistants for?*
+*What hats do TAs wear?*
 
 ### Discussion
 
