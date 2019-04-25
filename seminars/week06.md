@@ -103,4 +103,27 @@ Good intentions don't excuse a negative impact that somebody has had, but acknow
 
 ## Assignment for This Week
 
-Under construction.
+*Tips for instructors who are just starting out.*
+
+### Reading
+
+Read through *Teaching Tips We Wish They'd Told Us Before We Started* by Owen Astrachan, Nick Parlante, Daniel D. Garcia, and Stuart Reges.
+This was originally published in the *ACM Technical Symposium on Computer Science Education* in 2007.
+You can find a PDF in the [Files section on Canvas](https://canvas.ucdavis.edu/courses/356010/files/folder/Readings?preview=5837597).
+This is a short 2-page paper about some teaching tips for new instructors.
+While this is intended for professors and lecturers, some of these tips could be applicable in your role as a TA.
+We will go further into TA roles and responsibilities next week.
+
+### Questions
+
+You don't need to review the paper this time.
+Instead, answer the following two questions:
+
+1. Is there anything on this list that you strongly agree or disagree with? Why is that the case?
+2. The first paragraph mentions *hats*, or roles, that instructors wear. In a similar vein, name some of the hats that you wear when you are a TA. You can name them in general or specifically for a course you've TAed or are currently TAing for.
+
+Submit your responses in the [assignment for this week on Canvas](https://canvas.ucdavis.edu/courses/356010/assignments/310491).
+
+### Grading
+
+As long as you respond to the questions appropriately, you'll get credit.
