@@ -14,7 +14,7 @@ I will do my best to facilitate these discussions, but I ask that you do your pa
 
 The majority of the content for this week was derived from the [*MaGE* Resources](https://sites.google.com/mtholyoke.edu/mage-training-curriculum/home) provided by the *MaGE* Program.
 
-## Pet Peeves and Pop Ups [20 min]
+## Pet Peeves and Pop Ups [25 min]
 
 *Thinking about assumptions, judgments, and making mistakes.*
 
@@ -74,7 +74,7 @@ I will give you a bit of time to consider your answers, then we will briefly dis
 At the end of this topic, I will collect the papers that each group wrote on, as this is the attendance for today.
 I will ask if anyone forgot to sign in.
 
-## Climate and Learning Outcomes [30 min]
+## Climate and Learning Outcomes [25 min]
 
 *How does our learning environment influence how effectively we learn?*
 
@@ -89,7 +89,7 @@ The reading didn't explicitly mention the idea, but certain portions of the read
 ### Reflection
 
 After we discuss the reading, we will take some time to reflect on our own experiences with classroom climate.
-Take approximately 10 minutes to respond to the following questions.
+Take approximately 7 to 8 minutes to respond to the following questions.
 I suggest that you write down your responses via your preferred medium, but I am not requiring you to.
 I will provide scratch paper and pens if you would like to write out your thoughts on paper.
 
