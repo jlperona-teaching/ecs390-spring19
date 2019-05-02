@@ -7,7 +7,7 @@ Author: Justin Perona
 This week's focus is on Universal Design for Learning (UDL) and intersectionality.
 These fall under the auspices of inclusiveness and climate, which we started to talk about last week.
 First, we will cover UDL and how it connects to inclusiveness.
-Then, we will start talking about intersectionality and how people's identities influence their experiences.
+Then, we will talk about the idea of intersectionality and how people's identities influence their experiences.
 
 *Note*: in this week, we will go through some serious topics.
 Please remember to respect each other's points of view, even if you don't relate to or agree with them.
@@ -15,7 +15,7 @@ I will do my best to facilitate these discussions, but I ask that you do your pa
 
 The majority of the content for this week was derived from the [*MaGE* Resources](https://sites.google.com/mtholyoke.edu/mage-training-curriculum/home) provided by the *MaGE* Program.
 
-## Universal Design for Learning [20 min]
+## Universal Design for Learning [30 min]
 
 *Tying accessibility to inclusiveness.*
 
@@ -39,7 +39,7 @@ I will write these on the board.
 #### Impact
 
 After we have come up with some examples to improve accessibility, we will go through each example in turn.
-Describe the impact these examples might have on how a student feels in a class.
+For each of these examples, think about the impact that each may have on how a student feels in a class.
 I will write these impacts on the board as well.
 
 #### Personal Experiences
@@ -53,44 +53,57 @@ If you can't think of any examples, here are two of them:
 * Using an elevator to travel less than 5 floors, if you're also able to use the stairs.
 * Sending a text message rather than discussing in person.
 
-## Intersectionality and Lived Experience [30 min]
+### Wrap Up
+
+To finish up the topic, I'll ask if anyone has any questions before we move on.
+
+## Intersectionality and Lived Experience [20 min]
 
 *How your identities influence your experiences.*
 
+### Poll
+
+Before we start the topic of intersectionality, I will poll everyone to see how familiar the class is with the topic.
+
+I will pass around a questionnaire to each person that will look like previous ballots in the class.
+Please write your name on the questionnaire, as this will serve as the sign in sheet for today.
+There will be one question on the questionnaire.
+Please mark *Yes* or *No* on the questionnaire in response to the following question:
+
+> Have you heard of the term "intersectionality" prior to today?
+
+*Only I will know exactly what you marked.
+I will not reveal your specific choice to anyone else, though I will reveal the results in the aggregate to further the discussion.
+What you mark will have no impact on your grade, as I am only grading on attendance.*
+
+Afterwards, I will collect the questionnaire and count them.
+When I have finished counting, I will reveal the results in the aggregate.
+
 ### Video
 
-To introduce this topic, we will watch [this video from Khan Academy](https://www.youtube.com/watch?v=n2kUpKP18z8) on intersectionality.
-
-**Under construction.**
+Based on the results of the prior poll, we may or may not watch [this video from Khan Academy](https://www.youtube.com/watch?v=n2kUpKP18z8) that discusses intersectionality.
+If we do not watch the video, then I will ask for the definition of intersectionality to get everyone on the same page.
 
 ### Purpose
 
+Before we move on to the final part, we will have a short discussion on why we are discussing this topic.
+
 What do you think intersectionality has to do with this training and your job as a TA?
+As a reminder, last week we were talking about how classroom climate affects learning outcomes.
+How does intersectionality tie into climate?
 
-**Under construction.**
+### Reflection
 
-### Discussion
+For the remainder of the class, we will reflect on our own experiences.
 
-**Under construction.**
+Take the rest of the class time to respond to the following questions.
+I suggest that you write down your responses via your preferred medium, but I am not requiring you to.
+I will provide scratch paper and pens if you would like to write out your thoughts on paper.
+*Due to the nature of the topic, I will not collect any of your writings for this topic.*
 
-#### Splitting Into Groups
-
-For this exercise, we're going to split into groups of 3 to 4.
-Rearrange yourselves so that you can all discuss with the other members of your group.
-
-Before we continue, I will provide a piece of scratch paper and a pen to each group.
-*Make sure everybody in your group writes down their names on the scratch paper.
-This is the sign-in sheet for today.*
-
-**Under construction.**
-
-#### Caveats
-
-**Under construction.**
-
-#### Prompts
-
-**Under construction.**
+This is a hard topic to broach for some people, myself included.
+If you'd like to talk privately during the reflection time or afterwards, let me know.
+I'm also willing to make an appointment during the week to talk privately; email me if you'd like to talk.
 
 * Which of your identities are you most conscious of in this setting? Can you think of any situations where you are more conscious of a different identity or identities?
 * Can you think of any moments in your life when you felt excluded? What do you think made you feel excluded? What impact did that feeling of exclusion have on you in that situation?
