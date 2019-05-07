@@ -15,6 +15,10 @@ Finally, we'll wrap things up and I'll ask for your feedback.
 
 Under construction.
 
+### Attendance
+
+Under construction.
+
 ## Other Educational Resources
 
 *Other resources to help you continue to improve your teaching.*

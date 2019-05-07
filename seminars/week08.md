@@ -21,6 +21,12 @@ He was the one that introduced me to Gradescope, which I have found invaluable f
 I will ask him about Gradescope and other educational tools that he's used.
 From there, I'll let the discussion flow naturally.
 
+### Attendance
+
+After the introduction, I will pass around a sign in sheet to each person that will look like the ballots from previous classes.
+Please write your name down on your sign in sheet.
+I will collect them at the end of class.
+
 ## Educational Tools [if time]
 
 *Discussing the use of educational tools and their impact on students.*
