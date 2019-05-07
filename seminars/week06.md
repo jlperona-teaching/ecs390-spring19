@@ -15,7 +15,7 @@ I will do my best to facilitate these discussions, but I ask that you do your pa
 
 The majority of the content for this week was derived from the [*MaGE* Resources](https://sites.google.com/mtholyoke.edu/mage-training-curriculum/home) provided by the *MaGE* Program.
 
-## Universal Design for Learning [30 min]
+## Universal Design for Learning [25 min]
 
 *Tying accessibility to inclusiveness.*
 
@@ -57,7 +57,7 @@ If you can't think of any examples, here are two of them:
 
 To finish up the topic, I'll ask if anyone has any questions before we move on.
 
-## Intersectionality and Lived Experience [20 min]
+## Intersectionality and Lived Experience [25 min]
 
 *How your identities influence your experiences.*
 
