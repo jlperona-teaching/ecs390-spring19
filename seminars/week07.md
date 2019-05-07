@@ -37,6 +37,26 @@ This list isn't a definitive answer to the question, but these responses are cer
 
 *Guidance for teaching CS at UC Davis.*
 
+### Poll
+
+Before we continue, I want to see how many students have been or are currently TAs.
+Interestingly enough, this information isn't easily available, even to someone who is teaching a TA training course!
+I'll use the results to this question to tailor the next section appropriately.
+
+I will pass around a questionnaire to each person that will look like previous ballots in the class.
+Please write your name on the questionnaire, as this will serve as the sign in sheet for today.
+There will be one question on the questionnaire.
+Please mark *Yes* or *No* on the questionnaire in response to the following question:
+
+> Have you been or are you currently a TA here at UC Davis?
+
+*Only I will know exactly what you marked.
+I will not reveal your specific choice to anyone else, though I will reveal the results in the aggregate to further the discussion.
+What you mark will have no impact on your grade, as I am only grading on attendance.*
+
+Afterwards, I will collect the questionnaire and count them.
+When I have finished counting, I will reveal the results in the aggregate.
+
 ### Notes
 
 Now that we have some context, we're going to go over some guidelines and responsibilities for teaching CS here at UC Davis.
@@ -62,10 +82,11 @@ The presentation next week will talk about some tools in use at UC Davis, and we
 ### Questions
 
 You don't need to review the paper this time.
-Instead, answer the following two questions:
+Instead, answer the following three questions:
 
 1. Have you used, or are currently using, any of the educational tools that the authors mentioned?
 2. Are there any tools on this list that you haven't used that may be useful to you in the future?
+3. Are there any tools *not* on this list that you think are worth mentioning?
 
 Submit your responses in the [assignment for this week on Canvas](https://canvas.ucdavis.edu/courses/356010/assignments/310492).
 
