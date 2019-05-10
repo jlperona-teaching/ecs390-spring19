@@ -23,7 +23,18 @@ Under construction.
 
 *Other resources to help you continue to improve your teaching.*
 
-Under construction.
+### Resource List
+
+In week 7, at the end of the [teaching guidelines and responsibilities notes](../notes/teaching-guidelines-responsibilities.pdf), I mentioned some resources if you want to improve your teaching.
+Here's a recap, along with one additional one brought up by one of your fellow students.
+
+* The [Center for Educational Effectiveness](https://cee.ucdavis.edu/) (CEE) is the biggest resource for improving your teaching, with workshops, consultations, and a course that you can take.
+* Other instructors, such as your fellow TAs and the instructors for the courses you TA for. I can't tell you how many things I've picked up from other instructors to use for my own courses!
+* [This guide](https://www.ucop.edu/student-mental-health-resources/_files/pdf/ucd.pdf) is a good resource for assisting distressed and distressing students, if you ever find yourself in that situation.
+* If you're serious about improving your teaching, I'm willing to meet you halfway. Feel free to email me in the future if you'd like to talk or have me do an observation.
+
+Check out [our department's page on teaching resources](https://www.cs.ucdavis.edu/graduate/current/teaching/), too.
+I add to it as I encounter new university resources.
 
 ## Wrap Up
 
