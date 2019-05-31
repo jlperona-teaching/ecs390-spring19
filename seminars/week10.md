@@ -5,21 +5,52 @@ Author: Justin Perona
 # Week 10
 
 This week concludes the course.
-You'll have one last chance to ask any questions that you have on topics that we've covered in the course.
+I'll bring up some of the topics mentioned in the previous week's homework; you'll then have one last chance to ask any questions that you have on topics that we've covered in the course.
 I'll point out some other educational resources that may be helpful in your role as a TA.
 Finally, we'll wrap things up and I'll ask for your feedback.
 
-## Bringing It All Back
+## Bringing It All Back [5 min]
 
-*Final thoughts and questions.*
+*Making connections to the rest of the course.*
 
-Under construction.
+### Assignment From Last Week
 
-### Attendance
+The assignment from last week asked you about topics that you'd like to discuss further, or to talk about things that you've learned or gotten better at over the course of this class.
+We're going to spend the first part of this final class talking about answers to that first question: things to discuss further.
 
-Under construction.
+## Topics for Further Discussion [35 min]
 
-## Other Educational Resources
+*Guided discussion based on your responses to the previous homework.*
+
+### Dismissive Students
+
+One of the topics brought up made an impact on me, which is why we're going to spend some time talking about it.
+*Note that this is a serious topic.*
+Please keep this conversation respectful.
+
+#### Scenario
+
+**Under construction.**
+
+#### Attendance
+
+**Under construction.**
+[UC Davis Principles of Community](https://occr.ucdavis.edu/poc/)
+
+#### Discussion
+
+**Under construction.**
+
+## Final Questions [if time]
+
+*Lingering thoughts.*
+
+### One Last Chance
+
+If there's time, I'll ask for any remaining questions that you have.
+It can be about topics that we've covered in this course, or something else that you'd like to bring up.
+
+## Other Educational Resources [5 min]
 
 *Other resources to help you continue to improve your teaching.*
 
@@ -31,16 +62,37 @@ Here's a recap, along with one additional one brought up by one of your fellow s
 * The [Center for Educational Effectiveness](https://cee.ucdavis.edu/) (CEE) is the biggest resource for improving your teaching, with workshops, consultations, and a course that you can take.
 * Other instructors, such as your fellow TAs and the instructors for the courses you TA for. I can't tell you how many things I've picked up from other instructors to use for my own courses!
 * [This guide](https://www.ucop.edu/student-mental-health-resources/_files/pdf/ucd.pdf) is a good resource for assisting distressed and distressing students, if you ever find yourself in that situation.
-* If you're serious about improving your teaching, I'm willing to meet you halfway. Feel free to email me in the future if you'd like to talk or have me do an observation.
 
 Check out [our department's page on teaching resources](https://www.cs.ucdavis.edu/graduate/current/teaching/), too.
 I add to it as I encounter new university resources.
 
-## Wrap Up
+## Wrap Up [10 min]
 
 *Wrapping everything up.*
 
-Under construction.
+### What You've Improved On
+
+**Under construction.**
+
+### Improving Never Ends
+
+I hope that this class has introduced you to a new idea or given you the chance to improve some aspect of your teaching.
+That said, this class shouldn't be the end of that journey.
+You can *always* improve your teaching skills.
+I'm constantly doing the same via learning from other instructors and trying new things, such as the new curriculum for this class.
+
+Even if you're not going to be an instructor after your time in graduate school, some of these skills could still prove useful to you out in industry or elsewhere.
+If you do end up becoming an educator, I hope that you continue to hone your teaching ability wherever life takes you next.
+
+### Thank You
+
+Finally, thank you for attending this class and bearing with me over these past 10 weeks.
+I'd love your constructive feedback on what you liked and what could be done better; more on that in a bit.
+
+I make an offer to all my students at the end of this class.
+If you're serious about improving your teaching, I'm willing to meet you halfway.
+Feel free to email me in the future if you'd like to talk, want me to point you to some resources, or have me do an observation of one of your discussions (or even lectures!).
+I can't promise that I'll be in Davis forever on that last one, but we can try to make it work.
 
 ## Assignment for This Week
 
@@ -55,6 +107,18 @@ There's one last CEE workshop tomorrow; check [CEE's graduate student workshop f
 
 *Note that the homework for this week is due on Thursday at 23:59.*
 It's due before the start of finals so I can finalize the grades as quickly as possible.
+
+#### Giving Good Feedback
+
+In the spirit of this class being about improving your teaching ability, here's some resources about feedback from the [Students Assessing Teaching And Learning (SATAL) Program](https://cetl.ucmerced.edu/satal) from UC Merced.
+Admittedly, this is for students rather than TAs or instructors, but I think it's useful to point out.
+
+The SATAL Program created [this useful rubric](https://d1b10bmlvqabco.cloudfront.net/attach/jqitg8o5zp125/j7z56pnupw9461/jt0c3yml2fz2/shs_rubric.pdf) on how to give useful feedback to instructors on their classes.
+They've divided it into highly useful, somewhat useful, and not useful feedback that students can give to instructors to improve their courses and teaching.
+There's also a three minute video [available on YouTube](https://www.youtube.com/watch?v=8-aaKMva4lc) if you prefer videos.
+
+I'm not requiring you to read through the rubric or watch the video before you give me feedback, but I'd certainly appreciate it if you did.
+It might even prove handy for you in future classes.
 
 #### Feedback on the Curriculum
 
