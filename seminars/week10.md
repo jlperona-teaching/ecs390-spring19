@@ -57,11 +57,12 @@ It can be about topics that we've covered in this course, or something else that
 ### Resource List
 
 In week 7, at the end of the [teaching guidelines and responsibilities notes](../notes/teaching-guidelines-responsibilities.pdf), I mentioned some resources if you want to improve your teaching.
-Here's a recap, along with one additional one brought up by one of your fellow students.
+Here's a recap, along with some additional ones that either your fellow students or I have found.
 
 * The [Center for Educational Effectiveness](https://cee.ucdavis.edu/) (CEE) is the biggest resource for improving your teaching, with workshops, consultations, and a course that you can take.
 * Other instructors, such as your fellow TAs and the instructors for the courses you TA for. I can't tell you how many things I've picked up from other instructors to use for my own courses!
 * [This guide](https://www.ucop.edu/student-mental-health-resources/_files/pdf/ucd.pdf) is a good resource for assisting distressed and distressing students, if you ever find yourself in that situation.
+* There's also [this gatekeeper training](https://staff.ucdavis.edu/article/gatekeeping-training-study) which is designed to help equip staff and faculty with skills and the knowledge they need to comfortably and confidently speak to students about mental health concerns, then refer them to appropriate mental health resources. However, I believe that it's targeted towards staff and faculty, not TAs.
 
 Check out [our department's page on teaching resources](https://www.cs.ucdavis.edu/graduate/current/teaching/), too.
 I add to it as I encounter new university resources.
