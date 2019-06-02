@@ -30,16 +30,64 @@ Please keep this conversation respectful.
 
 #### Scenario
 
-**Under construction.**
+A student walks into your office hours, attended by multiple other students, and asks those present who the TA is.
+After determining that you are the TA, the student makes a comment along the lines of "never mind, I'll come back later and talk to somebody else."
+The student then leaves.
+
+#### First Discussion
+
+We'll spend some time discussing answers to the following questions.
+I don't believe there is necessarily one correct answer to these questions.
+
+* How do you think situations like these affect the learning environment in classes?
+* What is an appropriate way to handle this situation?
+* Would your answer be different if the power dynamic was different, if you weren't the student's TA?
+
+#### Second Scenario
+
+This next scenario is similar to the first, with some significant changes.
+
+A student walks into your office hours, attended by multiple other students, and asks those present who the TA is.
+After determining that you are the TA, the student makes a comment along the lines of "never mind, I don't think you can handle it."
+The student then leaves.
+
+You have reason to believe that the student made the comment based on a group, class, or category to which they perceived you belonged to.
+This includes but is not limited to race, ethnicity, nationality, gender or gender expression, and/or age.
 
 #### Attendance
 
-**Under construction.**
-[UC Davis Principles of Community](https://occr.ucdavis.edu/poc/)
+Before we begin discussing the second scenario, I want to know if you've heard of the [UC Davis Principles of Community](https://occr.ucdavis.edu/poc/).
+It will be relevant to this discussion.
 
-#### Discussion
+I will pass around a questionnaire to each person that will look like previous ballots in the class.
+Please write your name on the questionnaire, as this will serve as the sign in sheet for today.
+There will be one question on the questionnaire.
+Please mark an appropriate response on the questionnaire in response to the following questions:
 
-**Under construction.**
+> Have you heard of the UC Davis Principles of Community prior to today?
+> Have you read its contents prior to today?
+
+*Only I will know exactly what you marked.
+I will not reveal your specific choice to anyone else, though I will reveal the results in the aggregate to further the discussion.
+What you mark will have no impact on your grade, as I am only grading on attendance.*
+
+Afterwards, I will collect the questionnaires and count them.
+When I have finished counting, I will reveal the results in the aggregate.
+
+#### Second Discussion
+
+Before we continue, I will briefly go through the [UC Davis Principles of Community](https://occr.ucdavis.edu/poc/).
+After we do so, we'll spend some time discussing answers to the following questions.
+Again, I don't believe there is necessarily one correct answer to these questions.
+
+* Why are the Principles of Community relevant here?
+* What is an appropriate way to handle this situation? Is your answer different from your answer to the first scenario?
+* The intentions behind the student's comment may not be clear. Does this complicate how you would respond to the student?
+
+### Further Topics
+
+**This section is incomplete.
+It will be finished after the assignment is due.**
 
 ## Final Questions [if time]
 
@@ -73,7 +121,13 @@ I add to it as I encounter new university resources.
 
 ### What You've Improved On
 
-**Under construction.**
+From the assignment from the previous week, people mentioned that they learned about the following topics:
+
+* Emotional intelligence
+* Teaching tips and strategies
+
+**This list above is incomplete.
+It will be finished after the assignment is due.**
 
 ### Improving Never Ends
 
