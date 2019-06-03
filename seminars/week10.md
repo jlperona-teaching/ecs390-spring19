@@ -86,8 +86,15 @@ Again, I don't believe there is necessarily one correct answer to these question
 
 ### Further Topics
 
-**This section is incomplete.
-It will be finished after the assignment is due.**
+Depending on how much additional time we have, I will try my best to go through the following topics that you and your fellow students brought up in the last assignment.
+Some of these topics honestly deserve classes of their own, but I'll try my best to touch on all of them.
+
+* Appropriate "strictness" in grading homework (grading an attempt versus completion)
+* Best practices towards designing course material (such as ordering or introductory material)
+* How to handle plagiarism in your classes
+* Identifying students who consider themselves part of a minority
+* Increasing student engagement in classes
+* Other useful educational tools (such as Campuswire or Overleaf)
 
 ## Final Questions [if time]
 
@@ -123,11 +130,16 @@ I add to it as I encounter new university resources.
 
 From the assignment from the previous week, people mentioned that they learned about the following topics:
 
+* Educational tools
 * Emotional intelligence
-* Teaching tips and strategies
+* Giving constructive feedback
+* Handling complicated situations with students
+* Interpreting student behavior
+* Roles or hats that TAs take on
+* Teaching tips and strategies (both for discussions and in general)
+* Universal Design for Learning
 
-**This list above is incomplete.
-It will be finished after the assignment is due.**
+I'm glad to see that people learned a variety of things from this course!
 
 ### Improving Never Ends
 
